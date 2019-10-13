@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Open_Lab_01._3
+namespace Open_Lab_01.2
 {
     class Program
     {
